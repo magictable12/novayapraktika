@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 testing line
-=======
 not testing line
->>>>>>> 6b06724ce18d5eaf5188aacdba9647750616859b
 
 90909090
 1000-7
